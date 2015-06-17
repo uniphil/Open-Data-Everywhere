@@ -1,5 +1,7 @@
 # Open Data Everywhere
 
+[Presentation](https://docs.google.com/presentation/d/1qCjCK7lwv2kNcCf-k3Uq8w1kd5_jpX9bqN8NtmlRrMU/edit?usp=sharing)
+
 
 ## Objectives
 
